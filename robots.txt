@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://algaskim.github.io/algaskim.txt.gz
+Sitemap: https://algaskim.github.io/app/algaskim.txt.gz
+Sitemap: https://algaskim.github.io/assets/algaskim.txt.gz
+Sitemap: https://algaskim.github.io/css/algaskim.txt.gz
+Sitemap: https://algaskim.github.io/includes/algaskim.txt.gz
+Sitemap: https://algaskim.github.io/item/algaskim.txt.gz
+Sitemap: https://algaskim.github.io/src/algaskim.txt.gz
